@@ -21,5 +21,5 @@ Avaible here: http://cs.binghamton.edu/~mrldata/pets2009
 We can change ROIs as we like in the config.yml file.
 The output data can be found in "data/output" folder.
 
-##Tools
-Visual studio 
+## Tools
+- Visual studio 
