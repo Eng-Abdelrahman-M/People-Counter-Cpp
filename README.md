@@ -3,7 +3,7 @@ Count people in specific regions in images using Yolov5 (CPP, Libtorch)
 
 
 ## About the project
-Count people inside some given ROIs.
+Count people inside some given ROIs. [Video](https://www.linkedin.com/posts/abdelrahman-othman-197235b7_cplusplus-opencv-deeplearning-activity-6902779631250874368-lrpw?utm_source=share&utm_medium=member_desktop)
 
 ![This is an image](https://github.com/Eng-Abdelrahman-M/People-Counter-Cpp/blob/master/frame_0099.jpg)
 
